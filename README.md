@@ -18,6 +18,13 @@
 7. https://ryanfitzgerald.github.io/devportfolio/
 8. https://developerfolio.js.org/
 
+## Real Estate
+1. https://www.realtor.com/
+2. https://www.trulia.com/
+3. https://www.redfin.com/
+4. https://www.loopnet.com/
+5. https://www.homes.com/
+
 ## API's
 1. https://icanhazdadjoke.com/api
 2. https://dog.ceo/dog-api/
