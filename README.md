@@ -15,6 +15,8 @@
 4. https://saarthack.github.io/portfolio/
 5. https://www.awwwards.com/
 6. https://www.alexbeigeweb.dev/
+7. https://ryanfitzgerald.github.io/devportfolio/
+8. https://developerfolio.js.org/
 
 ## API's
 1. https://icanhazdadjoke.com/api
